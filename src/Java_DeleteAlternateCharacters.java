@@ -18,10 +18,10 @@ public class Java_DeleteAlternateCharacters {
 
             String s = scan.next();
             int n = s.length();
-            String s1 = "";
+            StringBuilder s1 = new StringBuilder();
 
             for (int i=0; i<n; i+=2){
-                s1 += s.charAt(i);
+                s1.append(s.charAt(i));
             }
 
             System.out.println(s1);
