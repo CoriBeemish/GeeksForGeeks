@@ -1,3 +1,4 @@
+package JavaPractice;
 // https://practice.geeksforgeeks.org/problems/palindrome-string/0
 
 // Given a string S, check if it is palindrome or not.
