@@ -1,4 +1,4 @@
-package JavaPractice;
+package JavaPractice.Arrays;
 
 import java.util.*;
 import java.lang.*;
